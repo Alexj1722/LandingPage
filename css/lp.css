@@ -11,8 +11,16 @@ header div.hero {
 header div.hero div{
    min-height: 50vh;
 }
+.btn-epic{
+  background-color:aquamarine;
+}
+
 .title{
-  font-size:15px;
+  font-size:20px;
+  color: rgb(21, 219, 219);
+}
+
+.colorfont{
   color: rgb(21, 219, 219);
 }
 
