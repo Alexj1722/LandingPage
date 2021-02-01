@@ -20,6 +20,12 @@ header div.hero div{
   color: rgb(21, 219, 219);
 }
 
+.title2{
+  font-size:15px;
+  color: rgb(21, 219, 219);
+  text-align: center;
+}
+
 .colorfont{
   color: rgb(21, 219, 219);
 }
@@ -57,6 +63,14 @@ form {
           width:100%;
           
         }
+        .title2{
+          font-size: 25px;
+          color: rgb(21, 219, 219);
+          text-align: center;
+          padding:0.7em;
+          width:100%;
+          
+        }
       }
 
 @media (min-width: 992px) {
@@ -70,3 +84,10 @@ form {
           
         }
       }
+      .title2{
+        font-size: 25px;
+        color: rgb(21, 219, 219);
+        text-align: center;
+        padding:0.7em;
+        width:100%;
+        }
